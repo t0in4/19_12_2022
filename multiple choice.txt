@@ -1,7 +1,7 @@
 На домашний компьютер не забываем установить node.js скачав в поисковике
 после установки уставливаем
 в powershell
-npm install promt-sync
+npm install prompt-sync
 
 Hello! My name is Aid.
 I was created in 2022.
@@ -64,6 +64,7 @@ let current = 0;
 while (current <= number) {
 console.log(current + " !");
 current += 1;
+}
 }
 
 

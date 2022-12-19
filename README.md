@@ -1,5 +1,5 @@
 На домашний компьютер не забываем установить node.js скачав в поисковике
 после установки уставливаем
 в powershell
-npm install promt-sync
+npm install prompt-sync
 
